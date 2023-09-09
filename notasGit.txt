@@ -1,0 +1,6 @@
+git init: inica una carpeta vacia en mi proyrcto
+
+git status: consulta como se encuentra el proyecto en ese momento. 
+
+Carpetas vacias: git no realiza un seguimineto de las carpetas vacias
+
